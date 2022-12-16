@@ -1,6 +1,6 @@
 %co2 and o2
 syms v f(v) 
-p=input("enter p:\n");               % for p=6,a=2,b=2,T=100,g=3,h=7, e=
+p=input("enter p:\n");               % for p=6,a=2,b=2,T=100,g=3,h=7, 
 a=input("enter a:\n");
 b=input("enter b:\n");
 T=input("enter T:\n");
