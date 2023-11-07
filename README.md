@@ -24,4 +24,6 @@ To use the code in this repository, simply download or clone the repository to y
 <br>
 Once you have run a script or function, you can modify its input parameters or variables to solve different numerical problems.
 
+![curve image](myimage.png)
+
 Thank you for using our numerical methods code repository in MATLAB!
