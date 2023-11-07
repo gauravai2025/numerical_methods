@@ -9,24 +9,6 @@ Bisection method
 <br>
 Newton's raphson  method
 <br>
-Secant method
-<br>
-
-Interpolation methods:
-
-Linear interpolation
-<br>
-Cubic spline interpolation
-<br>
-
-Numerical integration methods:
-
-Trapezoidal rule
-<br>
-Simpson's rule
-<br>
-Romberg integration
-<br>
 
 Ordinary differential equation (ODE) solvers:
 
